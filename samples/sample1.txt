@@ -1,0 +1,10 @@
+Mon: Liam completed the inventory cache refresh endpoint (INV-102), latency dropped by 35%
+Mon: Chloe started work on multi-currency pricing support in INV-108
+Tue: released v1.8 to staging, 48 of 50 integration tests passing
+Tue: waiting on approval from finance team for currency conversion API keys, Liam to follow up
+Wed: supplier catalog sync job might take longer than planned, risk of delay for the 10 Dec batch run
+Wed: client demo with Northwind Retail went well, VP of Operations signed off on Phase 1
+Thu: Noah resolved Redis connection pool leak under heavy load (INV-115)
+Thu: fixed two edge-case calculation bugs in tax calculation module (INV-111, INV-112)
+Fri: next week we plan to run performance stress tests and prepare the beta release for Friday
+Fri: Sophia to coordinate with DevOps on database migration scripts for next Tuesday

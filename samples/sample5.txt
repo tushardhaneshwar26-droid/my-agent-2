@@ -1,0 +1,7 @@
+Mon: critical production outage on notification pipeline, root cause still unknown and nobody assigned yet
+Tue: major database migration failed after 40 minutes, rolled back to v2.1
+Tue: blocked by external compliance audit, cannot deploy to production without approval
+Wed: vendor contract expired and API access got revoked, delivery date definitely delayed
+Thu: performance degradation on search cluster, queries taking over 8 seconds
+Fri: next week we need to resolve the database issue and get signoff, but no meetings are scheduled yet
+Fri: budget approval for cloud credits is pending with finance

@@ -1,0 +1,10 @@
+mon - dev team relased v0.9 to uat env.. 12 bugs closed but 2 new ones poped up
+mon: elena wrking on AUTH-54 login oauth.. half done, waiting on figma desing specs from ux team
+tue -- payment gateway returning 500 errs on checkout.. blocked! cannot reporduce on local machne
+tue: custmr feedback call went great, client loved the speed improvments
+wed - risk that cloud provider maintence on 14 Jan might delay load testng.. need to check with ops
+wed: sam finished redis clstr setup (INF-88), 99.9% uptime this wk
+thu -- still wating for sec team signoff on token storage.. no owner yet!!
+thu: fixed typos in email tempalts and updated copy for landing page
+fri - nxt wk plan: start billing engine v2 and prep demo for thrusday
+fri: ethan out sick, handover notes sent via slack

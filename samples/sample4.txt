@@ -1,0 +1,4 @@
+Mon: Zoe deployed hotfix 1.4.2 to resolve checkout button crash on iOS (APP-88)
+Wed: team completed sprint planning for Q1 roadmap, 45 story points committed
+Thu: waiting on legal review for updated terms of service before public launch, Alex to follow up
+Fri: next week we start the subscription billing module (APP-95)
